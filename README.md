@@ -12,4 +12,3 @@ https://github.com/kohjiaxuan/Data-Science-Competition-for-Revenue-Maximization
 All Repositories available here: <br>
 https://github.com/kohjiaxuan?tab=repositories
 
-s
