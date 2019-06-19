@@ -9,6 +9,6 @@ https://github.com/kohjiaxuan/NLP-Model-for-Corpus-Similarity
 Champions of Data Science Competition by SAS Institute <br>
 https://github.com/kohjiaxuan/Data-Science-Competition-for-Revenue-Maximization
 
-All Repositories available here: <br>
+All Repositories are available here: <br>
 https://github.com/kohjiaxuan?tab=repositories
 
