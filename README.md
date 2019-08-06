@@ -3,10 +3,13 @@ Practice Juypter Notebooks for my machine learning journey with Python. Previous
 
 Please refer to other repositories for my completed projects!
 
-e.g. Natural Language Processing Model to determine similarity of two Wikipedia articles <br>
+### Predicting prices of HDB Resales Flats with Machine Learning <br>
+https://github.com/kohjiaxuan/Predicting-HDB-Price-with-Machine-Learning
+
+### Natural Language Processing Model to determine similarity of two Wikipedia articles <br>
 https://github.com/kohjiaxuan/NLP-Model-for-Corpus-Similarity
 
-Champions of Data Science Competition by SAS Institute <br>
+### Champions of Data Science Competition by SAS Institute <br>
 https://github.com/kohjiaxuan/Data-Science-Competition-for-Revenue-Maximization
 
 All Repositories are available here: <br>
